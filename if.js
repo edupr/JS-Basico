@@ -50,5 +50,5 @@ elseif (jugador == computador )
     console.log("empate");
 }
 else {
-    console.log("Perdiste")
+    console.log("Perdiste");
 }

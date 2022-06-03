@@ -37,7 +37,7 @@ if (jugador == "tijeras"  && computador == "papel")
 {
     console.log("Ganaste");
 }
-elseif (jugador == "Piedra"  && computador == "tijeras") 
+elseif (jugador == "piedra"  && computador == "tijeras") 
 {
     console.log("Ganaste");
 }
